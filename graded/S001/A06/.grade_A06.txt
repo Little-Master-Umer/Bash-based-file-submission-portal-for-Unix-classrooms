@@ -1,0 +1,14 @@
+==============================
+ GRADE RECORD
+==============================
+student_id   = S001
+assign_id    = A06
+filename     = S001_A06_2026-05-18.txt
+grade        = EXEMPT
+letter_grade = EX
+is_late      = 1
+minutes_late = 1
+feedback     = late
+graded_by    = umer
+graded_at    = 2026-05-18 00:38:45
+==============================

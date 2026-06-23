@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-06-10 12:13:12",
+  "student": {
+    "id": "S001",
+    "name": "Alice Johnson",
+    "email": "alice@university.edu"
+  },
+  "summary": {
+    "total_assignments": 5,
+    "on_time": 1,
+    "late": 1,
+    "missing": 3,
+    "graded": 1,
+    "average_grade": "50"
+  },
+  "assignments": [{"id":"A01","name":"Introduction to Shell Scripting","status":"ON-TIME","submitted_at":"2026-05-17 10:52:15","grade":"50","letter":"F","feedback":"bets","deadline":"2027-01-01 23:59:59"},{"id":"A02","name":"File Permissions & Ownership","status":"MISSING","submitted_at":"—","grade":"—","letter":"—","feedback":"—","deadline":"2027-01-15 23:59:59"},{"id":"A03","name":"Process Management","status":"MISSING","submitted_at":"—","grade":"—","letter":"—","feedback":"—","deadline":"2027-02-01 23:59:59"},{"id":"A04","name":"Networking Basics","status":"MISSING","submitted_at":"—","grade":"—","letter":"—","feedback":"—","deadline":"2027-02-15 23:59:59"},{"id":"A06","name":"operating system","status":"LATE","submitted_at":"2026-05-18 00:37:57","grade":"EXEMPT","letter":"EX","feedback":"late","deadline":"2026-05-18 00:35:59"}]
+}

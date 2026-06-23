@@ -1,0 +1,27 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║          UNIX CLASSROOM FILE SUBMISSION PORTAL                      ║
+║                 STUDENT SUBMISSION REPORT                           ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+  Generated : 2026-06-10 12:13:12
+  Student   : Alice Johnson  (S001)
+  Email     : alice@university.edu
+
+  ── Summary ──────────────────────────────────────────────────────────
+  Total Assignments:     5
+  Submitted On-Time:     1
+  Submitted Late:        1
+  Missing:               3
+  Graded:                1
+  Average Grade:         50
+
+  ── Assignments ──────────────────────────────────────────────────────
+  ID      Name                                    Status      Date      Grade   Letter
+  ──────────────────────────────────────────────────────────────────────
+  A01     Introduction to Shell Scripting         ON-TIME     2026-05-17  50      F     
+  A02     File Permissions & Ownership            MISSING     —       —     —   
+  A03     Process Management                      MISSING     —       —     —   
+  A04     Networking Basics                       MISSING     —       —     —   
+  A06     operating system                        LATE        2026-05-18  EXEMPT  EX    
+
+════════════════════════════════════════════════════════════════════════

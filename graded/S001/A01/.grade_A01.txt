@@ -1,0 +1,14 @@
+==============================
+ GRADE RECORD
+==============================
+student_id   = S001
+assign_id    = A01
+filename     = S001_A01_2025-06-10.py
+grade        = 50
+letter_grade = F
+is_late      = 0
+minutes_late = 0
+feedback     = bets
+graded_by    = umer
+graded_at    = 2026-05-18 00:45:38
+==============================

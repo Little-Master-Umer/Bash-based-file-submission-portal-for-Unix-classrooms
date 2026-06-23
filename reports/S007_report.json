@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-05-17 19:03:17",
+  "student": {
+    "id": "S007",
+    "name": "Grace Kim",
+    "email": "grace@university.edu"
+  },
+  "summary": {
+    "total_assignments": 5,
+    "on_time": 0,
+    "late": 0,
+    "missing": 5,
+    "graded": 0,
+    "average_grade": "N/A"
+  },
+  "assignments": [{"id":"A01","name":"Introduction to Shell Scripting","status":"MISSING","submitted_at":"—","grade":"—","letter":"—","feedback":"—","deadline":"2027-01-01 23:59:59"},{"id":"A02","name":"File Permissions & Ownership","status":"MISSING","submitted_at":"—","grade":"—","letter":"—","feedback":"—","deadline":"2027-01-15 23:59:59"},{"id":"A03","name":"Process Management","status":"MISSING","submitted_at":"—","grade":"—","letter":"—","feedback":"—","deadline":"2027-02-01 23:59:59"},{"id":"A04","name":"Networking Basics","status":"MISSING","submitted_at":"—","grade":"—","letter":"—","feedback":"—","deadline":"2027-02-15 23:59:59"},{"id":"A05","name":"Final Project","status":"MISSING","submitted_at":"—","grade":"—","letter":"—","feedback":"—","deadline":"2027-03-01 23:59:59"}]
+}

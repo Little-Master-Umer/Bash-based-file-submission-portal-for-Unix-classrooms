@@ -1,0 +1,14 @@
+==============================
+ GRADE RECORD
+==============================
+student_id   = S002
+assign_id    = A01
+filename     = S002_A01_2025-06-10.sh
+grade        = 33
+letter_grade = F
+is_late      = 0
+minutes_late = 0
+feedback     = not much good
+graded_by    = umer
+graded_at    = 2026-05-17 22:43:26
+==============================

@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-05-17 19:03:32",
+  "student": {
+    "id": "S003",
+    "name": "Carol White",
+    "email": "carol@university.edu"
+  },
+  "summary": {
+    "total_assignments": 5,
+    "on_time": 2,
+    "late": 0,
+    "missing": 3,
+    "graded": 2,
+    "average_grade": "83"
+  },
+  "assignments": [{"id":"A01","name":"Introduction to Shell Scripting","status":"ON-TIME","submitted_at":"2026-05-17 19:03:32","grade":"75","letter":"C","feedback":"Good effort","deadline":"2027-01-01 23:59:59"},{"id":"A02","name":"File Permissions & Ownership","status":"ON-TIME","submitted_at":"2026-05-17 19:03:11","grade":"92","letter":"A","feedback":"Excellent work!","deadline":"2027-01-15 23:59:59"},{"id":"A03","name":"Process Management","status":"MISSING","submitted_at":"—","grade":"—","letter":"—","feedback":"—","deadline":"2027-02-01 23:59:59"},{"id":"A04","name":"Networking Basics","status":"MISSING","submitted_at":"—","grade":"—","letter":"—","feedback":"—","deadline":"2027-02-15 23:59:59"},{"id":"A05","name":"Final Project","status":"MISSING","submitted_at":"—","grade":"—","letter":"—","feedback":"—","deadline":"2027-03-01 23:59:59"}]
+}

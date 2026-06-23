@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-05-17 19:03:17",
+  "student": {
+    "id": "S002",
+    "name": "Bob Smith",
+    "email": "bob@university.edu"
+  },
+  "summary": {
+    "total_assignments": 5,
+    "on_time": 1,
+    "late": 0,
+    "missing": 4,
+    "graded": 1,
+    "average_grade": "33"
+  },
+  "assignments": [{"id":"A01","name":"Introduction to Shell Scripting","status":"ON-TIME","submitted_at":"2026-05-17 10:52:15","grade":"33","letter":"F","feedback":"not much good","deadline":"2027-01-01 23:59:59"},{"id":"A02","name":"File Permissions & Ownership","status":"MISSING","submitted_at":"—","grade":"—","letter":"—","feedback":"—","deadline":"2027-01-15 23:59:59"},{"id":"A03","name":"Process Management","status":"MISSING","submitted_at":"—","grade":"—","letter":"—","feedback":"—","deadline":"2027-02-01 23:59:59"},{"id":"A04","name":"Networking Basics","status":"MISSING","submitted_at":"—","grade":"—","letter":"—","feedback":"—","deadline":"2027-02-15 23:59:59"},{"id":"A05","name":"Final Project","status":"MISSING","submitted_at":"—","grade":"—","letter":"—","feedback":"—","deadline":"2027-03-01 23:59:59"}]
+}

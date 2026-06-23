@@ -1,0 +1,11 @@
+student_id=S003
+student_name=Carol White
+assign_id=A01
+assign_name=Introduction to Shell Scripting
+submitted=2026-05-17 19:03:32
+filename=S003_A01_2026-05-18.py
+extension=py
+status=VALID_ONTIME
+is_late=0
+deadline=2027-01-01 23:59:59
+file_size_kb=4

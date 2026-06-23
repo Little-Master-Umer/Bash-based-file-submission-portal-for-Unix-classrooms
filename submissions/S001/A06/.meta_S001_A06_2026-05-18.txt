@@ -1,0 +1,12 @@
+student_id=S001
+student_name=Alice Johnson
+assign_id=A06
+assign_name=operating system
+submitted=2026-05-18 00:37:57
+filename=S001_A06_2026-05-18.txt
+extension=txt
+status=VALID_LATE
+is_late=1
+minutes_late=1
+deadline=2026-05-18 00:35:59
+file_size_kb=4

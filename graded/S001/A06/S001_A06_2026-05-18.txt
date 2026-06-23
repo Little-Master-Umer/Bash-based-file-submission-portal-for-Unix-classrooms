@@ -1,0 +1,84 @@
+sudo mount -t vboxsf Shared_FOlder /home/umer/Desktop/Shared
+
+
+
+
+
+tar -xzf submission_portal.tar.gz
+cd submission_portal
+bash bin/setup.sh --local          # local demo (no root needed)
+bash bin/watcher.sh start          # start the daemon
+bash bin/submit.sh S001 A01 hw.py  # student submits
+bash bin/grade_submission.sh S001 A01 88 "Great work!"
+bash bin/generate_report.sh S001   # view report
+bash bin/admin.sh                  # open instructor TUI
+
+
+sudo bash bin/setup.sh
+bash bin/setup.sh --local
+
+
+# SETUP
+bash bin/setup.sh --local              # first time only
+
+# WATCHER
+bash bin/watcher.sh start              # start daemon
+bash bin/watcher.sh stop               # stop daemon
+bash bin/watcher.sh status             # check if running
+bash bin/watcher.sh once               # manual single scan
+
+# STUDENTS SUBMIT
+bash bin/submit.sh S001 A01 file.py    # student 1
+bash bin/submit.sh S002 A01 file.sh    # student 2
+bash bin/submit.sh S003 A01 file.c     # student 3
+
+# INSTRUCTOR GRADES
+bash bin/grade_submission.sh S001 A01 90 "feedback"
+bash bin/grade_submission.sh S002 A01 75 "feedback"
+bash bin/grade_submission.sh S003 A01 60 "feedback"
+
+# REPORTS
+bash bin/generate_report.sh S001       # one student
+bash bin/generate_report.sh --all      # everyone
+cat reports/S001_report.txt            # read report
+
+# ADMIN DASHBOARD
+bash bin/admin.sh                      # interactive menu
+
+
+
+
+
+
+Fix — Run These Commands
+bash# Step 1 — Go into your portal folder
+cd ~/Desktop/Shared/files/submission_portal
+
+# Step 2 — Fix the PORTAL_ROOT path in portal.conf
+sed -i 's|PORTAL_ROOT=.*|PORTAL_ROOT="/home/umer/Desktop/Shared/files/submission_portal"|' config/portal.conf
+
+# Step 3 — Verify it changed correctly
+grep "PORTAL_ROOT" config/portal.conf
+You should see:
+PORTAL_ROOT="/home/umer/Desktop/Shared/files/submission_portal"
+
+Then fix lib_validate.sh log path too
+bash# Step 4 — Create logs folder and fix permissions
+mkdir -p logs
+chmod 777 logs
+
+
+
+
+
+cd ~/Desktop/Shared/files/submission_portal
+bash -x bin/submit.sh S001 A01 /home/umer/Desktop/exe.cpp 2>&1
+The -x flag prints every line as it executes — paste that output here and I can tell you exactly where it fails.
+
+Most likely cause — drop_zone permissions
+bash# Check if drop_zone exists
+ls -la ~/Desktop/Shared/files/submission_portal/
+
+# If drop_zone is missing, create it
+mkdir -p ~/Desktop/Shared/files/submission_portal/drop_zone
+chmod 777 ~/Desktop/Shared/files/submission_portal/drop_zone

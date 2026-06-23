@@ -1,0 +1,27 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║          UNIX CLASSROOM FILE SUBMISSION PORTAL                      ║
+║                 STUDENT SUBMISSION REPORT                           ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+  Generated : 2026-05-17 19:03:17
+  Student   : Frank Lee  (S006)
+  Email     : frank@university.edu
+
+  ── Summary ──────────────────────────────────────────────────────────
+  Total Assignments:     5
+  Submitted On-Time:     0
+  Submitted Late:        0
+  Missing:               5
+  Graded:                0
+  Average Grade:         N/A
+
+  ── Assignments ──────────────────────────────────────────────────────
+  ID      Name                                    Status      Date      Grade   Letter
+  ──────────────────────────────────────────────────────────────────────
+  A01     Introduction to Shell Scripting         MISSING     —       —     —   
+  A02     File Permissions & Ownership            MISSING     —       —     —   
+  A03     Process Management                      MISSING     —       —     —   
+  A04     Networking Basics                       MISSING     —       —     —   
+  A05     Final Project                           MISSING     —       —     —   
+
+════════════════════════════════════════════════════════════════════════

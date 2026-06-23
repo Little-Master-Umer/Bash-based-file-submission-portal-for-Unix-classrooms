@@ -1,0 +1,153 @@
+[2026-05-17 23:49:28] [INFO] Directories verified
+[2026-05-17 23:49:28] [INFO] Directories verified
+[2026-05-17 23:49:28] [INFO] Watcher started (PID 7942)
+[2026-05-17 23:49:28] [INFO] Drop zone empty — nothing to process
+[2026-05-17 23:49:33] [INFO] Drop zone empty — nothing to process
+[2026-05-17 23:49:38] [INFO] Drop zone empty — nothing to process
+[2026-05-17 23:49:43] [INFO] Drop zone empty — nothing to process
+[2026-05-17 23:49:49] [INFO] Drop zone empty — nothing to process
+[2026-05-17 23:49:54] [INFO] Drop zone empty — nothing to process
+[2026-05-17 23:49:59] [INFO] Drop zone empty — nothing to process
+[2026-05-17 23:50:04] [INFO] Drop zone empty — nothing to process
+[2026-05-17 23:50:09] [INFO] Drop zone empty — nothing to process
+[2026-05-17 23:50:15] [INFO] Drop zone empty — nothing to process
+[2026-05-17 23:50:20] [INFO] Drop zone empty — nothing to process
+[2026-05-17 23:50:25] [INFO] Drop zone empty — nothing to process
+[2026-05-17 23:50:31] [INFO] Drop zone empty — nothing to process
+[2026-05-17 23:50:36] [INFO] Drop zone empty — nothing to process
+[2026-05-17 23:50:41] [INFO] Drop zone empty — nothing to process
+[2026-05-17 23:50:46] [INFO] Drop zone empty — nothing to process
+[2026-05-17 23:50:50] [OK] On-time — File Permissions & Ownership (349929 min remaining)
+[2026-05-17 23:50:51] [INFO] === Processing: S001_A02_2026-05-17.txt ===
+[2026-05-17 23:50:52] [OK] On-time — File Permissions & Ownership (349929 min remaining)
+[2026-05-17 23:50:52] [OK] ACCEPTED [[0;32m[OK][0m    On-time — File Permissions & Ownership (349929 min remaining)
+VALID_ONTIME] → /home/umer/Desktop/Shared/portal_fixed/submissions///S001_A02_2026-05-17.txt
+[2026-05-17 23:50:52] [INFO] Generating reports for all students...
+[2026-05-17 23:50:53] [OK] Report generated → /home/umer/Desktop/Shared/portal_fixed/reports/S001_report.txt
+[2026-05-17 23:50:54] [OK] Report generated → /home/umer/Desktop/Shared/portal_fixed/reports/S002_report.txt
+[2026-05-17 23:50:55] [OK] Report generated → /home/umer/Desktop/Shared/portal_fixed/reports/S003_report.txt
+[2026-05-17 23:50:56] [OK] Report generated → /home/umer/Desktop/Shared/portal_fixed/reports/S004_report.txt
+[2026-05-17 23:50:56] [OK] Report generated → /home/umer/Desktop/Shared/portal_fixed/reports/S005_report.txt
+[2026-05-17 23:50:57] [OK] Report generated → /home/umer/Desktop/Shared/portal_fixed/reports/S006_report.txt
+[2026-05-17 23:50:58] [OK] Report generated → /home/umer/Desktop/Shared/portal_fixed/reports/S007_report.txt
+[2026-05-17 23:50:59] [OK] Report generated → /home/umer/Desktop/Shared/portal_fixed/reports/S008_report.txt
+[2026-05-17 23:50:59] [OK] All reports generated in /home/umer/Desktop/Shared/portal_fixed/reports/
+[2026-05-17 23:52:27] [ERROR] No submission found at: /home/umer/Desktop/Shared/portal_fixed/submissions/S001/A02
+[2026-05-17 23:52:50] [INFO] Directories verified
+[2026-05-17 23:52:50] [INFO] Single scan
+[2026-05-17 23:52:50] [INFO] Drop zone empty — nothing to process
+[2026-05-17 23:53:48] [OK] On-time — File Permissions & Ownership (349926 min remaining)
+[2026-05-17 23:54:28] [INFO] Directories verified
+[2026-05-17 23:54:28] [INFO] Single scan
+[2026-05-17 23:54:28] [INFO] === Processing: S001_A02_2026-05-17.txt ===
+[2026-05-17 23:54:28] [WARN] Already processed, skipping: S001_A02_2026-05-17.txt
+[2026-05-17 23:55:05] [INFO] Directories verified
+[2026-05-17 23:55:05] [INFO] Single scan
+[2026-05-17 23:55:05] [INFO] === Processing: S001_A02_2026-05-17.txt ===
+[2026-05-17 23:55:05] [WARN] Already processed, skipping: S001_A02_2026-05-17.txt
+[2026-05-17 23:56:20] [ERROR] Invalid grade 'exempt'. Must be 0–100, EXEMPT, or MISSING
+[2026-05-17 23:56:53] [ERROR] No submission found at: /home/umer/Desktop/Shared/portal_fixed/submissions/S001/A02
+[2026-05-17 19:01:27] [OK] On-time — Introduction to Shell Scripting (330058 min remaining)
+[2026-05-17 19:01:27] [ERROR] Student ID 'S999' not found in registry
+[2026-05-17 19:01:27] [ERROR] Extension '.exe' not allowed. Allowed: py sh c cpp java txt pdf md
+[2026-05-17 19:01:31] [INFO] Directories verified
+[2026-05-17 19:01:31] [INFO] Single scan
+[2026-05-17 19:01:31] [INFO] === Processing: S001_A01_2026-05-18.py ===
+[2026-05-17 19:01:31] [OK] On-time — Introduction to Shell Scripting (330058 min remaining)
+[2026-05-17 19:01:31] [OK] ACCEPTED [[0;32m[OK][0m    On-time — Introduction to Shell Scripting (330058 min remaining)
+VALID_ONTIME] → /home/claude/portal_fixed/submissions///S001_A01_2026-05-18.py
+[2026-05-17 19:01:31] [INFO] === Processing: S002_A01_2026-05-18.py ===
+[2026-05-17 19:01:31] [INFO] Generating reports for all students...
+[2026-05-17 19:01:31] [OK] On-time — Introduction to Shell Scripting (330058 min remaining)
+[2026-05-17 19:01:31] [OK] ACCEPTED [[0;32m[OK][0m    On-time — Introduction to Shell Scripting (330058 min remaining)
+VALID_ONTIME] → /home/claude/portal_fixed/submissions///S002_A01_2026-05-18.py
+[2026-05-17 19:01:31] [INFO] === Processing: S001_A02_2026-05-17.txt ===
+[2026-05-17 19:01:32] [WARN] Already processed, skipping: S001_A02_2026-05-17.txt
+[2026-05-17 19:01:32] [INFO] Generating reports for all students...
+[2026-05-17 19:01:32] [OK] Report generated → /home/claude/portal_fixed/reports/S001_report.txt
+[2026-05-17 19:01:32] [OK] Report generated → /home/claude/portal_fixed/reports/S001_report.txt
+[2026-05-17 19:01:32] [OK] Report generated → /home/claude/portal_fixed/reports/S002_report.txt
+[2026-05-17 19:01:32] [OK] Report generated → /home/claude/portal_fixed/reports/S002_report.txt
+[2026-05-17 19:01:32] [OK] Report generated → /home/claude/portal_fixed/reports/S003_report.txt
+[2026-05-17 19:01:32] [OK] Report generated → /home/claude/portal_fixed/reports/S003_report.txt
+[2026-05-17 19:01:32] [OK] Report generated → /home/claude/portal_fixed/reports/S004_report.txt
+[2026-05-17 19:01:32] [OK] Report generated → /home/claude/portal_fixed/reports/S004_report.txt
+[2026-05-17 19:01:32] [OK] Report generated → /home/claude/portal_fixed/reports/S005_report.txt
+[2026-05-17 19:01:32] [OK] Report generated → /home/claude/portal_fixed/reports/S005_report.txt
+[2026-05-17 19:01:32] [OK] Report generated → /home/claude/portal_fixed/reports/S006_report.txt
+[2026-05-17 19:01:33] [OK] Report generated → /home/claude/portal_fixed/reports/S006_report.txt
+[2026-05-17 19:01:33] [OK] Report generated → /home/claude/portal_fixed/reports/S007_report.txt
+[2026-05-17 19:01:33] [OK] Report generated → /home/claude/portal_fixed/reports/S007_report.txt
+[2026-05-17 19:01:33] [OK] Report generated → /home/claude/portal_fixed/reports/S008_report.txt
+[2026-05-17 19:01:33] [OK] All reports generated in /home/claude/portal_fixed/reports/
+[2026-05-17 19:01:33] [OK] Report generated → /home/claude/portal_fixed/reports/S008_report.txt
+[2026-05-17 19:01:33] [OK] All reports generated in /home/claude/portal_fixed/reports/
+[2026-05-17 19:01:45] [ERROR] Invalid filename format: 'test_S001_A01_2026-05-18.py'
+[2026-05-17 19:01:45] [INFO] Expected format: SXXX_AXX_YYYY-MM-DD.ext  e.g. S001_A01_2026-12-01.py
+[2026-05-17 19:01:58] [OK] On-time — Introduction to Shell Scripting (330058 min remaining)
+[2026-05-17 19:02:10] [OK] On-time — Introduction to Shell Scripting (330057 min remaining)
+[2026-05-17 19:02:17] [OK] On-time — Introduction to Shell Scripting (330057 min remaining)
+[2026-05-17 19:03:02] [ERROR] Student ID 'S999' not found in registry
+[2026-05-17 19:03:02] [OK] On-time — Introduction to Shell Scripting (330056 min remaining)
+[2026-05-17 19:03:02] [WARN] Assignment 'A99' not in deadlines.conf
+[2026-05-17 19:03:11] [OK] On-time — File Permissions & Ownership (350216 min remaining)
+[2026-05-17 19:03:11] [INFO] Directories verified
+[2026-05-17 19:03:11] [INFO] Single scan
+[2026-05-17 19:03:11] [INFO] === Processing: S001_A02_2026-05-17.txt ===
+[2026-05-17 19:03:11] [OK] On-time — File Permissions & Ownership (350216 min remaining)
+[2026-05-17 19:03:11] [OK] ACCEPTED [VALID_ONTIME] → /home/claude/portal_fixed/submissions/S001/A02/S001_A02_2026-05-17.txt
+[2026-05-17 19:03:11] [INFO] === Processing: not_a_valid_filename.py ===
+[2026-05-17 19:03:11] [ERROR] Invalid filename format: 'not_a_valid_filename.py'
+[2026-05-17 19:03:11] [INFO] Expected format: SXXX_AXX_YYYY-MM-DD.ext  e.g. S001_A01_2026-12-01.py
+[2026-05-17 19:03:11] [ERROR] REJECTED → quarantine: not_a_valid_filename.py
+[2026-05-17 19:03:11] [INFO] === Processing: S003_A02_2026-05-18.py ===
+[2026-05-17 19:03:11] [OK] On-time — File Permissions & Ownership (350216 min remaining)
+[2026-05-17 19:03:11] [OK] Report generated → /home/claude/portal_fixed/reports/S001_report.txt
+[2026-05-17 19:03:11] [OK] ACCEPTED [VALID_ONTIME] → /home/claude/portal_fixed/submissions/S003/A02/S003_A02_2026-05-18.py
+[2026-05-17 19:03:11] [OK] Report generated → /home/claude/portal_fixed/reports/S003_report.txt
+[2026-05-17 19:03:17] [OK] Report generated → /home/claude/portal_fixed/reports/S001_report.txt
+[2026-05-17 19:03:17] [OK] Graded: S003 / A02 → 92 (A)  [Excellent work!]
+[2026-05-17 19:03:17] [INFO] Generating reports for all students...
+[2026-05-17 19:03:17] [OK] Report generated → /home/claude/portal_fixed/reports/S001_report.txt
+[2026-05-17 19:03:17] [OK] Report generated → /home/claude/portal_fixed/reports/S002_report.txt
+[2026-05-17 19:03:17] [OK] Report generated → /home/claude/portal_fixed/reports/S003_report.txt
+[2026-05-17 19:03:17] [OK] Report generated → /home/claude/portal_fixed/reports/S004_report.txt
+[2026-05-17 19:03:17] [OK] Report generated → /home/claude/portal_fixed/reports/S005_report.txt
+[2026-05-17 19:03:17] [OK] Report generated → /home/claude/portal_fixed/reports/S006_report.txt
+[2026-05-17 19:03:18] [OK] Report generated → /home/claude/portal_fixed/reports/S007_report.txt
+[2026-05-17 19:03:18] [OK] Report generated → /home/claude/portal_fixed/reports/S008_report.txt
+[2026-05-17 19:03:18] [OK] All reports generated in /home/claude/portal_fixed/reports/
+[2026-05-17 19:03:28] [ERROR] No submission found at: /home/claude/portal_fixed/submissions/S003/A01
+[2026-05-17 19:03:32] [INFO] Directories verified
+[2026-05-17 19:03:32] [INFO] Single scan
+[2026-05-17 19:03:32] [INFO] === Processing: S003_A01_2026-05-18.py ===
+[2026-05-17 19:03:32] [OK] On-time — Introduction to Shell Scripting (330056 min remaining)
+[2026-05-17 19:03:32] [OK] ACCEPTED [VALID_ONTIME] → /home/claude/portal_fixed/submissions/S003/A01/S003_A01_2026-05-18.py
+[2026-05-17 19:03:32] [OK] Report generated → /home/claude/portal_fixed/reports/S003_report.txt
+[2026-05-17 19:03:32] [OK] Graded: S003 / A01 → 75 (C)  [Good effort]
+[2026-05-17 19:03:32] [OK] Report generated → /home/claude/portal_fixed/reports/S003_report.txt
+[2026-05-18 00:34:02] [OK] Assignment added: A06 — operating system (deadline: 2026-05-18 00:35:59)
+[2026-05-18 00:35:08] [OK] Assignment removed: A05 (Final Project)
+[2026-05-18 00:37:18] [WARN] LATE — A06 is 1 min past deadline (2026-05-18 00:35:59)
+[2026-05-18 00:37:57] [INFO] Directories verified
+[2026-05-18 00:37:57] [INFO] Single scan
+[2026-05-18 00:37:57] [INFO] === Processing: S001_A06_2026-05-18.txt ===
+[2026-05-18 00:37:57] [WARN] LATE — A06 is 1 min past deadline (2026-05-18 00:35:59)
+[2026-05-18 00:37:57] [OK] ACCEPTED [VALID_LATE] → /home/umer/Desktop/Shared/pro_fixed/submissions/S001/A06/S001_A06_2026-05-18.txt
+[2026-05-18 00:37:59] [OK] Report generated → /home/umer/Desktop/Shared/pro_fixed/reports/S001_report.txt
+[2026-05-18 00:38:45] [OK] Graded: S001 / A06 → EXEMPT (EX)  [late]
+[2026-05-18 00:38:47] [OK] Report generated → /home/umer/Desktop/Shared/pro_fixed/reports/S001_report.txt
+[2026-05-18 00:43:26] [OK] On-time — Introduction to Shell Scripting (329716 min remaining)
+[2026-05-18 00:45:38] [OK] Graded: S001 / A01 → 50 (F)  [bets]
+[2026-05-18 00:45:39] [OK] Report generated → /home/umer/Desktop/Shared/pro_fixed/reports/S001_report.txt
+[2026-05-18 00:49:45] [OK] Report generated → /home/umer/Desktop/Shared/pro_fixed/reports/S001_report.txt
+[2026-05-18 00:51:10] [ERROR] Invalid grade 'a'. Must be 0–100, EXEMPT, or MISSING
+[2026-05-18 00:51:17] [OK] Report generated → /home/umer/Desktop/Shared/pro_fixed/reports/S001_report.txt
+[2026-05-18 00:54:34] [INFO] Directories verified
+[2026-05-18 00:54:34] [INFO] Single scan
+[2026-05-18 00:54:34] [INFO] === Processing: S001_A01_2026-05-18.txt ===
+[2026-05-18 00:54:35] [OK] On-time — Introduction to Shell Scripting (329705 min remaining)
+[2026-05-18 00:54:35] [OK] ACCEPTED [VALID_ONTIME] → /home/umer/Desktop/Shared/pro_fixed/submissions/S001/A01/S001_A01_2026-05-18.txt
+[2026-05-18 00:54:36] [OK] Report generated → /home/umer/Desktop/Shared/pro_fixed/reports/S001_report.txt
+[2026-05-18 00:55:54] [OK] Student added: S009 — umer Afaq (omer@gmail.com)
+[2026-06-10 12:13:12] [OK] Report generated → /home/umer/Desktop/Shared/pro_fixed/reports/S001_report.txt

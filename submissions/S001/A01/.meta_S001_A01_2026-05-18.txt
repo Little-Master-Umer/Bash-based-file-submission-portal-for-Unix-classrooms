@@ -1,0 +1,11 @@
+student_id=S001
+student_name=Alice Johnson
+assign_id=A01
+assign_name=Introduction to Shell Scripting
+submitted=2026-05-18 00:54:35
+filename=S001_A01_2026-05-18.txt
+extension=txt
+status=VALID_ONTIME
+is_late=0
+deadline=2027-01-01 23:59:59
+file_size_kb=4

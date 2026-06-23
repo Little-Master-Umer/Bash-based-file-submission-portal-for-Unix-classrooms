@@ -1,0 +1,12 @@
+student_id=
+student_name=Unknown
+assign_id=
+assign_name=
+submitted=2026-05-17 18:33:26
+filename=S002_A01_2026-05-17.py
+extension=
+status=[0;32m[OK][0m    On-time — Introduction to Shell Scripting (330086 min remaining)
+VALID_ONTIME
+is_late=0
+deadline=N/A
+file_size_kb=4

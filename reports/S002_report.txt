@@ -1,0 +1,27 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║          UNIX CLASSROOM FILE SUBMISSION PORTAL                      ║
+║                 STUDENT SUBMISSION REPORT                           ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+  Generated : 2026-05-17 19:03:17
+  Student   : Bob Smith  (S002)
+  Email     : bob@university.edu
+
+  ── Summary ──────────────────────────────────────────────────────────
+  Total Assignments:     5
+  Submitted On-Time:     1
+  Submitted Late:        0
+  Missing:               4
+  Graded:                1
+  Average Grade:         33
+
+  ── Assignments ──────────────────────────────────────────────────────
+  ID      Name                                    Status      Date      Grade   Letter
+  ──────────────────────────────────────────────────────────────────────
+  A01     Introduction to Shell Scripting         ON-TIME     2026-05-17  33      F     
+  A02     File Permissions & Ownership            MISSING     —       —     —   
+  A03     Process Management                      MISSING     —       —     —   
+  A04     Networking Basics                       MISSING     —       —     —   
+  A05     Final Project                           MISSING     —       —     —   
+
+════════════════════════════════════════════════════════════════════════

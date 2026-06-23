@@ -1,0 +1,12 @@
+student_id=
+student_name=
+assign_id=
+assign_name=Unknown
+submitted=2026-05-17 10:52:15
+filename=S001_A01_2025-06-10.py
+extension=
+status=[1;33m[WARN][0m  LATE submission for A01 — 483052 minutes past deadline (2025-06-15 23:59:59)
+VALID_LATE
+is_late=0
+deadline=N/A
+file_size_kb=4

@@ -1,0 +1,12 @@
+student_id=
+student_name=Unknown
+assign_id=
+assign_name=
+submitted=2026-05-17 23:50:52
+filename=S001_A02_2026-05-17.txt
+extension=
+status=[0;32m[OK][0m    On-time — File Permissions & Ownership (349929 min remaining)
+VALID_ONTIME
+is_late=0
+deadline=N/A
+file_size_kb=4

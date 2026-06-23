@@ -1,0 +1,27 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║          UNIX CLASSROOM FILE SUBMISSION PORTAL                      ║
+║                 STUDENT SUBMISSION REPORT                           ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+  Generated : 2026-05-17 19:03:32
+  Student   : Carol White  (S003)
+  Email     : carol@university.edu
+
+  ── Summary ──────────────────────────────────────────────────────────
+  Total Assignments:     5
+  Submitted On-Time:     2
+  Submitted Late:        0
+  Missing:               3
+  Graded:                2
+  Average Grade:         83
+
+  ── Assignments ──────────────────────────────────────────────────────
+  ID      Name                                    Status      Date      Grade   Letter
+  ──────────────────────────────────────────────────────────────────────
+  A01     Introduction to Shell Scripting         ON-TIME     2026-05-17  75      C     
+  A02     File Permissions & Ownership            ON-TIME     2026-05-17  92      A     
+  A03     Process Management                      MISSING     —       —     —   
+  A04     Networking Basics                       MISSING     —       —     —   
+  A05     Final Project                           MISSING     —       —     —   
+
+════════════════════════════════════════════════════════════════════════
